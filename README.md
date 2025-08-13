@@ -1,5 +1,5 @@
-# SIRE507
-Fundamental computer science for biologist
+# SIRE507: Fundamental computer science for biologist
 
-
-Lecture 1: Basics of computer science [Handouts](https://drive.google.com/file/d/1pMUfzGTsbQP0XSKFaXHPRtmOCtwY2T-4/view?usp=sharing)
+Lecture 1: Basics of computer science
+Lecture 2: Operating Systems, Virtual Machine, Containers and Cloud Computing
+Take-home (Self-study): Hardware
